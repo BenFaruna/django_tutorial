@@ -1,6 +1,6 @@
 asgiref==3.6.0
 Brotli==1.0.9
-Django==4.2
+Django==3.2.18
 django-theme-material-kit==1.0.19
 gunicorn==20.1.0
 sqlparse==0.4.3
