@@ -1,0 +1,6 @@
+render.yaml
+
+venv/
+.gitignore
+__pycache__/
+db.sqlite3
